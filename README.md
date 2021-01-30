@@ -10,7 +10,6 @@
 *  自定义：.github/workflows/work.yaml 编辑
 * 修复未自动运行Bug--修改过除 .workflow/ 下的任意文件（https://github.com/ZHDeveloper/JD_Sign_Action/issues/3#issuecomment-687539436）
 
-
 ## 使用用法
 * 点击右上角 `Fork` 项目；
 * `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
